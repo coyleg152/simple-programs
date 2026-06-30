@@ -15,7 +15,7 @@ int main(int argc, char ** argv)
   const int W_WIDTH = 800;
   const int W_HEIGHT = 600;
   const int FONT_SIZE = 20;
-  const int TEXT_OFFSET= 10;
+  const int TEXT_OFFSET = 10;
   const Color BG_COLOR = (Color) {25, 25, 25, 255};
   const float MOVE_SPEED = 300.0 / T_FPS;
 
